@@ -1,7 +1,7 @@
 # google-maps-trajectory
 Your Google Maps Timeline data visualized as a trajectory.
 
-![image](https://github.com/jsseely/google-maps-trajectory/assets/7425776/720d855c-f19f-4bd1-be57-236c63cf6c76)
+![image](https://github.com/jsseely/google-maps-trajectory/assets/7425776/17337c10-d5d9-41b6-8633-9db36fc2d048)
 
 Google Maps offers a Timeline tool to visualize your location history. But the visualization is limited. Instead we can download the location history data and plot it ourselves.
 

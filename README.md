@@ -3,7 +3,9 @@ Your Google Maps Timeline data visualized as a trajectory.
 
 ![image](https://github.com/jsseely/google-maps-trajectory/assets/7425776/17337c10-d5d9-41b6-8633-9db36fc2d048)
 
-Google Maps offers a Timeline tool to visualize your location history. But the visualization is limited. Instead we can download the location history data and plot it ourselves.
+Google Maps offers a Timeline tool to visualize your location history. But the visualization is limited: their [Timeline](http://timeline.google.com/) does not show all datapoints, and each location dot is given the same color.
+
+Instead we can download the location history data and plot it ourselves to show our trajectory in higher resolution, and with each location dot colored by timestamp. This allows a richer visualization for how we move through earth-space.
 
 # Use cases
 - Visualize your trajectory from a memorable vacation or road trip.
